@@ -5,11 +5,6 @@
   <img src="https://img.shields.io/badge/-Alura-08BDBA?style=for-the-badge&logoColor=white" alt="Alura Badge">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/seu-usuario/nome-do-repositorio?style=for-the-badge" alt="Repository Size">
-  <img src="https://img.shields.io/github/license/seu-usuario/nome-do-repositorio?style=for-the-badge" alt="License">
-</p>
-
 ## ℹ️ Sobre o Projeto
 
 🎮 Este é um projeto simples desenvolvido durante a formação "A partir do zero: iniciante em programação" na plataforma Alura. O jogo de adivinhação faz parte do processo de aprendizado e prática dos conceitos introdutórios do JavaScript abordados na formação.
