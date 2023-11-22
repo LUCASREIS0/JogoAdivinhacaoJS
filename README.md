@@ -34,6 +34,6 @@
 💡 Como estou aprendendo, sugestões e dicas são bem-vindas! Se você encontrar maneiras de melhorar o código ou adicionar funcionalidades, sinta-se à vontade para abrir issues e pull requests.
 
 ## Autor
-👤 Desenvolvido por [Lucas Reis] - Entre em contato [https://wa.me/558186580542].
+👤 Desenvolvido por [Lucas Reis] - [Entre em contato ](https://wa.me/558186580542).
 
 
